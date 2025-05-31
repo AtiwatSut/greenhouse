@@ -2,7 +2,7 @@
   <div class="product py-10 px-4">
     <div class="text-h4 font-weight-bold text-center mb-6">สินค้า</div>
     <v-row justify="center" align="center" dense>
-      <v-col v-for="(group, index) in groups" :key="index" cols="6" sm="4" md="2">
+      <v-col v-for="(group, index) in groups" :key="index" cols="6" sm="4" md="3">
         <v-card outlined class="text-center hover-card" @click="goToPath(group.group_code)">
             <v-card-text>
               <v-img :src="group.image" height="100%" contain></v-img>
