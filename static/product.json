@@ -1,0 +1,401 @@
+{
+  "data": [
+    {
+      "group_id": 1,
+      "group_code": "greenhouse",
+      "group_title": "Greenhouse Film",
+      "group_title_th": "พลาสติกคลุมโรงเรือน",
+      "image": "/slide/film-1.png",
+      "products": [
+        {
+          "group_id": 1,
+          "product_id": 1,
+          "product_code": "greenhouse-1",
+          "title": "Greenhouse Film 150 Micron",
+          "image": "/slide/film-1.png",
+          "description": {
+            "title": "ฟิล์มคลุมโรงเรือนระดับพรีเมียม",
+            "sub_title": "ปกป้องผลผลิตของคุณด้วยนวัตกรรมที่เกษตรกรทั่วโลกไว้วางใจ",
+            "li": [
+              "ทนทานเหนือมาตรฐานทั่วไป",
+              "ผลิตจากวัสดุคุณภาพสูง พร้อมเทคนิคการผลิตล้ำสมัย",
+              "ยืดอายุการใช้งานยาวนาน แม้ในสภาพแวดล้อมที่ท้าทาย",
+              "ทนทานเหนือมาช่วยควบคุมอุณหภูมิ แสง และความชื้นในโรงเรือนได้อย่างมีประสิทธิภาพตรฐานทั่วไป"
+            ]
+          },
+          "lists": [
+            {
+              "size": "3x50",
+              "pricePerRoll": 4100,
+              "pricePerMeter": 110
+            },
+            {
+              "size": "3x100",
+              "pricePerRoll": 8000,
+              "pricePerMeter": 110
+            },
+            {
+              "size": "4x50",
+              "pricePerRoll": 5300,
+              "pricePerMeter": 140
+            },
+            {
+              "size": "4x100",
+              "pricePerRoll": 10200,
+              "pricePerMeter": 140
+            },
+            {
+              "size": "4.5x50",
+              "pricePerRoll": 6000,
+              "pricePerMeter": 160
+            },
+            {
+              "size": "5x51",
+              "pricePerRoll": 6600,
+              "pricePerMeter": 170
+            },
+            {
+              "size": "5x105",
+              "pricePerRoll": 13000,
+              "pricePerMeter": 170
+            },
+            {
+              "size": "6x51",
+              "pricePerRoll": 7100,
+              "pricePerMeter": 190
+            },
+            {
+              "size": "6x105",
+              "pricePerRoll": 14000,
+              "pricePerMeter": 190
+            },
+            {
+              "size": "7x50",
+              "pricePerRoll": 9500,
+              "pricePerMeter": 250
+            },
+            {
+              "size": "7x100",
+              "pricePerRoll": 18200,
+              "pricePerMeter": 250
+            },
+            {
+              "size": "7.5x31",
+              "pricePerRoll": 7000,
+              "pricePerMeter": 270
+            },
+            {
+              "size": "7.5x42",
+              "pricePerRoll": 8900,
+              "pricePerMeter": 270
+            },
+            {
+              "size": "7.5x51",
+              "pricePerRoll": 10500,
+              "pricePerMeter": 270
+            },
+            {
+              "size": "7.5x105",
+              "pricePerRoll": 21000,
+              "pricePerMeter": 270
+            },
+            {
+              "size": "8.5x31",
+              "pricePerRoll": 8500,
+              "pricePerMeter": 330
+            },
+            {
+              "size": "8.5x42",
+              "pricePerRoll": 11500,
+              "pricePerMeter": 330
+            },
+            {
+              "size": "8.5x51",
+              "pricePerRoll": 12900,
+              "pricePerMeter": 330
+            },
+            {
+              "size": "8.5x62",
+              "pricePerRoll": 15500,
+              "pricePerMeter": 330
+            },
+            {
+              "size": "8.5x105",
+              "pricePerRoll": 25500,
+              "pricePerMeter": 330
+            }
+          ]
+        },
+        {
+          "group_id": 1,
+          "product_id": 2,
+          "product_code": "greenhouse-2",
+          "title": "Greenhouse Film 200 Micron",
+          "image": "/slide/film-1.png",
+          "description": {
+            "title": "ฟิล์มคลุมโรงเรือนระดับพรีเมียม",
+            "sub_title": "ปกป้องผลผลิตของคุณด้วยนวัตกรรมที่เกษตรกรทั่วโลกไว้วางใจ",
+            "li": [
+              "ทนทานเหนือมาตรฐานทั่วไป",
+              "ผลิตจากวัสดุคุณภาพสูง พร้อมเทคนิคการผลิตล้ำสมัย",
+              "ยืดอายุการใช้งานยาวนาน แม้ในสภาพแวดล้อมที่ท้าทาย",
+              "ทนทานเหนือมาช่วยควบคุมอุณหภูมิ แสง และความชื้นในโรงเรือนได้อย่างมีประสิทธิภาพตรฐานทั่วไป"
+            ]
+          },
+          "lists": [
+            {
+              "size": "2x100",
+              "pricePerRoll": 7000,
+              "pricePerMeter": 100
+            },
+            {
+              "size": "3x50",
+              "pricePerRoll": 5100,
+              "pricePerMeter": 130
+            },
+            {
+              "size": "3x100",
+              "pricePerRoll": 9600,
+              "pricePerMeter": 130
+            },
+            {
+              "size": "3.5x100",
+              "pricePerRoll": 12500,
+              "pricePerMeter": 170
+            },
+            {
+              "size": "4x50",
+              "pricePerRoll": 7000,
+              "pricePerMeter": 180
+            },
+            {
+              "size": "4x100",
+              "pricePerRoll": 13900,
+              "pricePerMeter": 180
+            },
+            {
+              "size": "4.5x50",
+              "pricePerRoll": 7400,
+              "pricePerMeter": 200
+            },
+            {
+              "size": "5x50",
+              "pricePerRoll": 9000,
+              "pricePerMeter": 230
+            },
+            {
+              "size": "5x100",
+              "pricePerRoll": 17500,
+              "pricePerMeter": 230
+            },
+            {
+              "size": "6x50",
+              "pricePerRoll": 11000,
+              "pricePerMeter": 280
+            },
+            {
+              "size": "6x100",
+              "pricePerRoll": 21000,
+              "pricePerMeter": 280
+            },
+            {
+              "size": "7x50",
+              "pricePerRoll": 12500,
+              "pricePerMeter": 325
+            },
+            {
+              "size": "7x100",
+              "pricePerRoll": 25000,
+              "pricePerMeter": 325
+            },
+            {
+              "size": "7.5x25",
+              "pricePerRoll": 7000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x31",
+              "pricePerRoll": 9000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x42",
+              "pricePerRoll": 12000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x51",
+              "pricePerRoll": 14000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x62",
+              "pricePerRoll": 17000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x105",
+              "pricePerRoll": 30000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "8x51",
+              "pricePerRoll": 17000,
+              "pricePerMeter": 410
+            },
+            {
+              "size": "8x105",
+              "pricePerRoll": 33000,
+              "pricePerMeter": 410
+            },
+            {
+              "size": "10x42",
+              "pricePerRoll": 17000,
+              "pricePerMeter": 510
+            },
+            {
+              "size": "10x51",
+              "pricePerRoll": 20000,
+              "pricePerMeter": 510
+            },
+            {
+              "size": "10x62",
+              "pricePerRoll": 25000,
+              "pricePerMeter": 510
+            },
+            {
+              "size": "10x105",
+              "pricePerRoll": 40000,
+              "pricePerMeter": 510
+            },
+            {
+              "size": "12x31",
+              "pricePerRoll": 17000,
+              "pricePerMeter": 600
+            },
+            {
+              "size": "12x42",
+              "pricePerRoll": 21500,
+              "pricePerMeter": 600
+            },
+            {
+              "size": "12x51",
+              "pricePerRoll": 26000,
+              "pricePerMeter": 600
+            },
+            {
+              "size": "12x62",
+              "pricePerRoll": 34000,
+              "pricePerMeter": 600
+            },
+            {
+              "size": "12x105",
+              "pricePerRoll": 50000,
+              "pricePerMeter": 600
+            },
+            {
+              "size": "14x51",
+              "pricePerRoll": 29000,
+              "pricePerMeter": 730
+            },
+            {
+              "size": "14x105",
+              "pricePerRoll": 59000,
+              "pricePerMeter": 730
+            },
+            {
+              "size": "15x51",
+              "pricePerRoll": 31500,
+              "pricePerMeter": 800
+            },
+            {
+              "size": "16x51",
+              "pricePerRoll": 34500,
+              "pricePerMeter": 900
+            }
+          ]
+        },
+        {
+          "group_id": 1,
+          "product_id": 3,
+          "product_code": "greenhouse-3",
+          "title": "Greenhouse Film 200 Micron Special",
+          "image": "/slide/film-1.png",
+          "description": {
+            "title": "ฟิล์มคลุมโรงเรือนระดับพรีเมียม",
+            "sub_title": "ปกป้องผลผลิตของคุณด้วยนวัตกรรมที่เกษตรกรทั่วโลกไว้วางใจ",
+            "li": [
+              "ทนทานเหนือมาตรฐานทั่วไป",
+              "ผลิตจากวัสดุคุณภาพสูง พร้อมเทคนิคการผลิตล้ำสมัย",
+              "ยืดอายุการใช้งานยาวนาน แม้ในสภาพแวดล้อมที่ท้าทาย",
+              "ทนทานเหนือมาช่วยควบคุมอุณหภูมิ แสง และความชื้นในโรงเรือนได้อย่างมีประสิทธิภาพตรฐานทั่วไป"
+            ]
+          },
+          "lists": [
+            {
+              "size": "7.5x25",
+              "pricePerRoll": 8000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x62",
+              "pricePerRoll": 18000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "7.5x105",
+              "pricePerRoll": 30000,
+              "pricePerMeter": 380
+            },
+            {
+              "size": "10x105",
+              "pricePerRoll": 42000,
+              "pricePerMeter": 600
+            },
+            {
+              "size": "12x31",
+              "pricePerRoll": 20000,
+              "pricePerMeter": 750
+            },
+            {
+              "size": "12x42",
+              "pricePerRoll": 25000,
+              "pricePerMeter": 750
+            },
+            {
+              "size": "12x51",
+              "pricePerRoll": 28750,
+              "pricePerMeter": 750
+            },
+            {
+              "size": "12x62",
+              "pricePerRoll": 34500,
+              "pricePerMeter": 750
+            },
+            {
+              "size": "12x105",
+              "pricePerRoll": 57500,
+              "pricePerMeter": 750
+            },
+            {
+              "size": "14x105",
+              "pricePerRoll": 60000,
+              "pricePerMeter": 850
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "group_id": 2,
+      "group_code": "insect_mesh",
+      "group_title": "Insect Mesh",
+      "group_title_th": "ตาข่ายกันแมลง",
+      "description": "ฟิล์มคลุมโรงเรือนระดับพรีเมียมได้รับความเชื่อถือจากเกษตรกร ั ท่วโลก ั ด้วยความทนทานที่เหนือ กว่ามาตรฐานการออกแบบ อายุการใช้งานขึ้นอยู่กับคุณภาพของวัสดุ เทคนิคการผลิต และสภาพ แวดล้อมที่ใช้งาน",
+      "image": "/slide/Film-150.png",
+      "products": [
+
+      ]
+    }
+  ]
+}
