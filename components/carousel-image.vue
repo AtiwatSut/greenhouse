@@ -4,7 +4,7 @@
       <v-carousel-item v-for="(item, index) in lists" :key="index" cover :src="item.image">
         <div class="title text-center pt-10 white--text">
           <h1>โรงเรือนเพาะปลูก</h1>
-          <div class="font-weight-bold">สร้างสภาพแวดล้อมที่เหมาะสม <br> เพื่อการเพาะปลูกที่มีคุณภาพและยั่งยืน</div>
+          <div class="font-weight-bold">สร้างสภาพแวดล้อมที่เหมาะสม เพื่อการเพาะปลูกที่มีคุณภาพและยั่งยืน</div>
         </div>
         <div class="description" outlined>
           <v-card class="pa-5" outlined>
@@ -73,6 +73,21 @@ export default {
     }
 
     h2 { font-size: 40px; }
+  }
+}
+
+@media only screen and (max-width: 600px) {
+  .title {
+    h1 { font-size: 30px !important; }
+  }
+  .description {
+    margin: 0 10px !important;
+  }
+  .detail {
+    h2 { font-size: 30px !important; line-height: 1; }
+  }
+  .description {
+    left: 0px !important;
   }
 }
 </style>
