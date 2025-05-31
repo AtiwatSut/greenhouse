@@ -33,17 +33,17 @@ export default {
       lists: [
         {
           text: `เลือกพลาสติกที่มีความทนทาน กรองแสงได้ดี และเหมาะกับสภาพอากาศ<br>อายุการใช้งานยาวนาน ช่วยลดต้นทุนระยะยาว`,
-          image: "/gallery/image-1.jpg",
+          image: require("~/assets/images/gallery/image-1.jpg"),
           title: 'วิธีเลือกเนื้อพลาสติก'
         },
         {
           text: `ควบคุมอุณหภูมิ ความชื้น ป้องกันแมลง และเพิ่มผลผลิต<br>เหมาะสำหรับการเพาะปลูกเชิงพาณิชย์และงานวิจัย`,
-          image: "/gallery/image-2.jpg",
+          image: require("~/assets/images/gallery/image-2.jpg"),
           title: 'ทำไมต้องใช้ Greenhouse'
         },
         {
           text: `ควบคุมอุณหภูมิ ความชื้น ป้องกันแมลง และเพิ่มผลผลิต<br>เหมาะสำหรับการเพาะปลูกเชิงพาณิชย์และงานวิจัย`,
-          image: "/gallery/image-3.jpg",
+          image: require("~/assets/images/gallery/image-3.jpg"),
           title: 'ทำไมต้องใช้ Greenhouse'
         }
       ]

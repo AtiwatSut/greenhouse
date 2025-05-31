@@ -8,7 +8,7 @@
     "start": "nuxt start",
     "generate": "nuxt generate",
     "deploy": "git add . && git commit -m 'update' && git push -f origin main && npm run deploy-web",
-    "deploy-web": "rm -r dis && npm run build && push-dir --dir=dist --branch=for-web --cleanup --force"
+    "deploy-web": "rmdir /s /q dist && npm run build && push-dir --dir=dist --branch=for-web --cleanup --force"
   },
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.4",
