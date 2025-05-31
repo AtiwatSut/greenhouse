@@ -24,7 +24,7 @@
             "group_code": "greenhouse",
             "group_title": "Greenhouse Film",
             "group_title_th": "พลาสติกคลุมโรงเรือน",
-            "image": "/slide/film-1.png"
+            "image": require("~/assets/images/slide/film-1.png")
           },
           {
             "group_id": 2,
@@ -32,7 +32,7 @@
             "group_title": "Insect Mesh",
             "group_title_th": "ตาข่ายกันแมลง",
             "description": "ฟิล์มคลุมโรงเรือนระดับพรีเมียมได้รับความเชื่อถือจากเกษตรกร ั ท่วโลก ั ด้วยความทนทานที่เหนือ กว่ามาตรฐานการออกแบบ อายุการใช้งานขึ้นอยู่กับคุณภาพของวัสดุ เทคนิคการผลิต และสภาพ แวดล้อมที่ใช้งาน",
-            "image": "/slide/Film-150.png"
+            "image": require("~/assets/images/slide/Film-150.png")
           }
         ]
       }
