@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div class="navbar">
     <v-app-bar elevation="0">
       <v-app-bar-nav-icon class="d-block d-md-none" @click="active = true"></v-app-bar-nav-icon>
       <v-toolbar-title @click="goToPath('/')"> Green House </v-toolbar-title>
@@ -101,4 +101,10 @@ export default {
 }
 </script>
 
-<style lang="scss" scoped></style>
+<style lang="scss" scoped>
+::v-deep .navbar {
+  position: sticky !important;
+  position: -webkit-sticky !important; 
+  top: 0 !important;
+}
+</style>

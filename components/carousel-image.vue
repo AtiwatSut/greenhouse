@@ -11,8 +11,8 @@
             <v-card-text>
               <div class="detail text pl-4 white--text">
                 <h2 class="">{{ item.title }}</h2>
-                <div v-html="item.text"></div>
-                <div class="mt-4 text-right">
+                <div class="my-4" v-html="item.text"></div>
+                <div class="text-right">
                   <v-btn class="white--text rounded-pill" color="orange" elevation="0">
                     อ่านเพิ่มเติม
                   </v-btn>
