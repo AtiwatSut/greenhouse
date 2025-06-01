@@ -54,7 +54,7 @@
                         <span>ช่วยรักษาอุณหภูมิ ลดปัญหาน้ำค้างแข็ง พืชไม่ชะงักโต เหมาะสำหรับพื้นที่หนาว</span>
                       </div>
                     </div>
-                    <div>
+                    <div class="mt-4">
                       <h3>มีหลายแบบให้เลือก</h3>
                       <h2>เลือกตามพืชที่ปลูกและสภาพอากาศ เช่น</h2>
                       <div class="d-flex">
@@ -71,7 +71,7 @@
                       </div>
                       <div>ทีมงานพร้อมให้คำแนะนำฟรี เพื่อเลือกฟิล์มที่เหมาะกับคุณที่สุด</div>
                     </div>
-                    <div>
+                    <div class="mt-4">
                       <h3>สนใจสอบถามเพิ่มเติม</h3>
                       <span>หากคุณมองหาฟิล์มโรงเรือนที่ทน คุ้มค่า และช่วยเพิ่มผลผลิต ทีมงานพร้อมให้คำแนะนำฟรี เพื่อเลือกฟิล์มที่เหมาะกับคุณที่สุด</span>
                       <h2>ติดต่อเราเลย! เราพร้อมให้คำปรึกษา</h2>
@@ -85,6 +85,7 @@
                 <v-col cols="12" sm="6" md="4" v-for="(item, index) in info.products" :key="index">
                   <v-card outlined :title="`${item.title}`" @click="goToPath(item.product_code)">
                     <v-card-text>
+                      <h2>{{ item.title }}</h2>
                       <v-img width="100%" :src="require(`~/assets/images/slide/${item.image}`)" />
                     </v-card-text>
                   </v-card>
