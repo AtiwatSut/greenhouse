@@ -10,7 +10,7 @@
                   <h1>{{ info.group_title_th }}</h1>
                 </v-card-title>
                 <v-card-text >
-                  <div>
+                  <div v-if="false">
                     <div>
                       <h2>ฟิล์มคลุมโรงเรือนระดับพรีเมียม</h2>
                       <h3>ทนทาน ใช้งานคุ้ม เหมาะกับเกษตรยุคใหม่</h3>

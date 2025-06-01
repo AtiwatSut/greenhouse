@@ -30,7 +30,7 @@
 
     <v-navigation-drawer v-model="active" absolute temporary style="width: 300px;">
       <v-list class="main-menu-dropdown">
-        <v-list-item v-if="item.type == 'menu'" v-for="(item, index) in menus" :key="index">
+        <v-list-item v-if="item.type == 'menu'" v-for="(item, index) in menus" :key="index" @click="goToPath(item.path)">
           <v-list-item-icon  @click="goToPath(item.path)">
             <v-icon>{{ item.icon }}</v-icon>
           </v-list-item-icon>
@@ -46,7 +46,7 @@
             </v-list-item>
           </template>
 
-          <v-list-item v-for="(list, i) in item.lists" :key="i" link  @click="goToPath(list.path)">
+          <v-list-item v-for="(list, i) in item.lists" :key="i" link @click="goToPath(list.path)">
             <v-list-item-icon>
               <v-icon>{{ list.icon }}</v-icon>
             </v-list-item-icon>
