@@ -1,0 +1,10 @@
+{
+  "name": "green-house",
+  "short_name": "green-house",
+  "description": "green-house",
+  "icons": [],
+  "start_url": "/greenhouse/?standalone=true",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "lang": "th"
+}
