@@ -5,14 +5,14 @@
       "group_code": "greenhouse",
       "group_title": "Greenhouse Film",
       "group_title_th": "พลาสติกคลุมโรงเรือน",
-      "image": "/slide/film-1.png",
+      "image": "film-1.png",
       "products": [
         {
           "group_id": 1,
           "product_id": 1,
           "product_code": "greenhouse-1",
           "title": "Greenhouse Film 150 Micron",
-          "image": "/slide/film-1.png",
+          "image": "film-1.png",
           "description": {
             "title": "ฟิล์มคลุมโรงเรือนระดับพรีเมียม",
             "sub_title": "ปกป้องผลผลิตของคุณด้วยนวัตกรรมที่เกษตรกรทั่วโลกไว้วางใจ",
@@ -131,7 +131,7 @@
           "product_id": 2,
           "product_code": "greenhouse-2",
           "title": "Greenhouse Film 200 Micron",
-          "image": "/slide/film-1.png",
+          "image": "film-1.png",
           "description": {
             "title": "ฟิล์มคลุมโรงเรือนระดับพรีเมียม",
             "sub_title": "ปกป้องผลผลิตของคุณด้วยนวัตกรรมที่เกษตรกรทั่วโลกไว้วางใจ",
@@ -320,7 +320,7 @@
           "product_id": 3,
           "product_code": "greenhouse-3",
           "title": "Greenhouse Film 200 Micron Special",
-          "image": "/slide/film-1.png",
+          "image": "film-1.png",
           "description": {
             "title": "ฟิล์มคลุมโรงเรือนระดับพรีเมียม",
             "sub_title": "ปกป้องผลผลิตของคุณด้วยนวัตกรรมที่เกษตรกรทั่วโลกไว้วางใจ",
@@ -388,11 +388,11 @@
     },
     {
       "group_id": 2,
-      "group_code": "insect_mesh",
+      "group_code": "insect-mesh",
       "group_title": "Insect Mesh",
       "group_title_th": "ตาข่ายกันแมลง",
       "description": "ฟิล์มคลุมโรงเรือนระดับพรีเมียมได้รับความเชื่อถือจากเกษตรกร ั ท่วโลก ั ด้วยความทนทานที่เหนือ กว่ามาตรฐานการออกแบบ อายุการใช้งานขึ้นอยู่กับคุณภาพของวัสดุ เทคนิคการผลิต และสภาพ แวดล้อมที่ใช้งาน",
-      "image": "/slide/Film-150.png",
+      "image": "Film-150.png",
       "products": [
 
       ]

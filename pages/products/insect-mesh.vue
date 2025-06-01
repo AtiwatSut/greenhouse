@@ -108,7 +108,7 @@ export default {
   methods: {
     async getData(){
       const res = await this.$axios.$get('./product.json')
-      let data = res.data.find(x => x.group_code == "greenhouse")
+      let data = res.data.find(x => x.group_code == "insect-mesh")
       data = JSON.parse(JSON.stringify(data))
       this.info = data
     },

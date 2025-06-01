@@ -71,7 +71,7 @@ export default {
           path: "/products",
           lists: [
             { title: "พลาสติกคลุมโรงเรือน", icon: "mdi-store-outline", path: "/products/greenhouse" },
-            { title: "มุ้งโรงเรือน", icon: "mdi-store-outline", path: "/products/insect_mesh" },
+            { title: "มุ้งโรงเรือน", icon: "mdi-store-outline", path: "/products/insect-mesh" },
             // { title: "รางและสปริงโรงเรือน", icon: "mdi-store-outline", path: "/spring-rails" },
           ],
           type: "group"

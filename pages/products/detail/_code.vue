@@ -5,7 +5,7 @@
         <v-card-text>
           <v-row>
             <v-col cols="12" md="6">
-              <v-img :src="info.image"></v-img>
+              <v-img :src="require(`~/assets/images/slide/${info.image}`)"></v-img>
             </v-col>
             <v-col>
               <h1> {{ info.title }} </h1>

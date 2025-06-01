@@ -82,7 +82,7 @@
     top: 0; left: 0;
     width: 100%;
     height: 100%;
-    background: url('~/static/slide/slide-3.png')  no-repeat center center / cover;
+    background: url('~/assets/images/slide/slide-3.png')  no-repeat center center / cover;
     opacity: 0.2;
     z-index: 1;
   }
